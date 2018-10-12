@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'tmekwa2018_Example' do
+  pod 'tmekwa2018', :path => '../'
+
+  target 'tmekwa2018_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
