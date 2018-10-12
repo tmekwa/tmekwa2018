@@ -1,0 +1,16 @@
+PODS:
+  - tmekwa2018 (0.1.0)
+
+DEPENDENCIES:
+  - tmekwa2018 (from `../`)
+
+EXTERNAL SOURCES:
+  tmekwa2018:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  tmekwa2018: c3aca1f6a7a7a8d8d8f1031dd763956bfa3acf46
+
+PODFILE CHECKSUM: a7a28d8d4476a93a8e9c5ff1d83679c178269693
+
+COCOAPODS: 1.5.3

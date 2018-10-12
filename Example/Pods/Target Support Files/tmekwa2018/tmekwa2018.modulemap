@@ -1,0 +1,6 @@
+framework module tmekwa2018 {
+  umbrella header "tmekwa2018-umbrella.h"
+
+  export *
+  module * { export * }
+}
